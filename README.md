@@ -23,7 +23,7 @@ In /docs click "Try it out" and fill in the `x-user` box.
 3. POST /changes/1/approve as bob   (alice would get 403)
 4. GET /audit  to see everything that happened
 
-## Test (no API key needed, the AI is faked)
+## Test 
     pytest
 
 ## Files
